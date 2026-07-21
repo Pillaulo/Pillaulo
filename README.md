@@ -8,7 +8,7 @@
 
   <!-- Banner cyberpunk pixel art + presentación -->
   <a href="https://github.com/Pillaulo">
-    <img src="./assets/profile-hero-cybercat.png" width="100%" alt="Paulo Vicencio — Ingeniero Civil Informático — IA, Fullstack y Machine Learning" />
+    <img src="./assets/profile-hero-cybercat-v2.png" width="100%" alt="Ingeniero Civil Informático — IA, Fullstack y Machine Learning" />
   </a>
 
   <br/>
