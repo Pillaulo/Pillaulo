@@ -6,9 +6,9 @@
 
 <div align="center">
 
-  <!-- Banner animado (typing) -->
+  <!-- Presentación principal -->
   <a href="https://github.com/Pillaulo">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=2800&pause=1100&color=00E5C3&center=true&vCenter=true&repeat=true&width=760&height=65&lines=Hola%2C+soy+Paulo+Vicencio;Ingeniero+Civil+Inform%C3%A1tico;IA+%C2%B7+Fullstack+%C2%B7+Machine+Learning;Ideas+que+se+convierten+en+productos" alt="Paulo Vicencio — Ingeniería, IA y desarrollo de productos" />
+    <img src="./assets/profile-hero.png" width="100%" alt="Paulo Vicencio — Ingeniero Civil Informático — IA, Fullstack y Machine Learning" />
   </a>
 
   <p>
