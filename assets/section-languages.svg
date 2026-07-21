@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64">
+  <style>
+    .title { fill: #e6edf3; font: 700 25px "Trebuchet MS", "Segoe UI", sans-serif; letter-spacing: .6px; }
+    .eyebrow { fill: #7d8590; font: 600 10px "Segoe UI", sans-serif; letter-spacing: 3px; }
+    @media (prefers-color-scheme: light) { .title { fill: #172033; } .eyebrow { fill: #57606a; } }
+  </style>
+  <rect x="0" y="8" width="5" height="48" rx="2.5" fill="#eab308"/>
+  <path d="m32 21-10 11 10 11m8-22 10 11-10 11" fill="none" stroke="#eab308" stroke-width="2"/>
+  <text x="65" y="24" class="eyebrow">ECOSISTEMA / 07</text>
+  <text x="65" y="50" class="title">Lenguajes y tecnologías</text>
+  <path d="M340 48H1000" stroke="#eab308" stroke-opacity=".24"/>
+</svg>

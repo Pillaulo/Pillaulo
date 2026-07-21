@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64">
+  <style>
+    .title { fill: #e6edf3; font: 700 25px "Trebuchet MS", "Segoe UI", sans-serif; letter-spacing: .6px; }
+    .eyebrow { fill: #7d8590; font: 600 10px "Segoe UI", sans-serif; letter-spacing: 3px; }
+    @media (prefers-color-scheme: light) { .title { fill: #172033; } .eyebrow { fill: #57606a; } }
+  </style>
+  <rect x="0" y="8" width="5" height="48" rx="2.5" fill="#22c55e"/>
+  <circle cx="36" cy="32" r="15" fill="none" stroke="#22c55e" stroke-width="2"/>
+  <path d="m33 25 10 7-10 7V25Z" fill="#22c55e"/>
+  <text x="65" y="24" class="eyebrow">DEMOS / 06</text>
+  <text x="65" y="50" class="title">Proyectos en vivo</text>
+  <path d="M280 48H1000" stroke="#22c55e" stroke-opacity=".24"/>
+</svg>

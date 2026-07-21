@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64">
+  <style>
+    .title { fill: #e6edf3; font: 700 25px "Trebuchet MS", "Segoe UI", sans-serif; letter-spacing: .6px; }
+    .eyebrow { fill: #7d8590; font: 600 10px "Segoe UI", sans-serif; letter-spacing: 3px; }
+    @media (prefers-color-scheme: light) { .title { fill: #172033; } .eyebrow { fill: #57606a; } }
+  </style>
+  <rect x="0" y="8" width="5" height="48" rx="2.5" fill="#f97316"/>
+  <path d="M22 42V22h28v20H22Zm7-13h14M29 35h9" fill="none" stroke="#f97316" stroke-width="2"/>
+  <circle cx="45" cy="36" r="3" fill="#f97316"/>
+  <text x="65" y="24" class="eyebrow">TRABAJO / 04</text>
+  <text x="65" y="50" class="title">Proyectos seleccionados</text>
+  <path d="M350 48H1000" stroke="#f97316" stroke-opacity=".24"/>
+</svg>

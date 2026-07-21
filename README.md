@@ -8,7 +8,7 @@
 
   <!-- Banner animado (typing) -->
   <a href="https://github.com/Pillaulo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=900&color=00E5C3&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Hola%2C+soy+Paulo+Vicencio+%F0%9F%91%8B;Ingeniero+Civil+Inform%C3%A1tico;IA+%C2%B7+Fullstack+%C2%B7+Machine+Learning;De+una+idea+a+un+producto+real" alt="Paulo Vicencio — Ingeniería, IA y desarrollo de productos" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3200&pause=900&color=00E5C3&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Hola%2C+soy+Paulo+Vicencio;Ingeniero+Civil+Inform%C3%A1tico;IA+%C2%B7+Fullstack+%C2%B7+Machine+Learning;De+una+idea+a+un+producto+real" alt="Paulo Vicencio — Ingeniería, IA y desarrollo de productos" />
   </a>
 
   <br/>
@@ -28,11 +28,11 @@
 
 ---
 
-## 🛰️ Sobre mí
+<img src="./assets/section-about.svg" width="100%" alt="Sobre mí" />
 
 > **Me gusta tomar una idea, investigarla, construir un prototipo y llevarla hasta algo que otra persona realmente pueda probar.**
 
-Soy **Ingeniero Civil Informático** de Valparaíso, Chile 🇨🇱. Me mueve la curiosidad: disfruto explorar tecnologías, comparar caminos posibles y aprender mientras construyo. Trabajo de forma iterativa, cuidando tanto la ingeniería como la experiencia visual.
+Soy **Ingeniero Civil Informático** de Valparaíso, Chile. Me mueve la curiosidad: disfruto explorar tecnologías, comparar caminos posibles y aprender mientras construyo. Trabajo de forma iterativa, cuidando tanto la ingeniería como la experiencia visual.
 
 Mi perfil combina **desarrollo fullstack, inteligencia artificial y Machine Learning**. No busco encasillarme en una sola herramienta; me interesa entender el problema, elegir una solución efectiva y convertirla en un producto útil, escalable y memorable.
 
@@ -44,7 +44,7 @@ Mi perfil combina **desarrollo fullstack, inteligencia artificial y Machine Lear
 
 ---
 
-## ⚡ Cómo convierto ideas en productos
+<img src="./assets/section-process.svg" width="100%" alt="Cómo convierto ideas en productos" />
 
 <div align="center">
 
@@ -56,7 +56,7 @@ Mi perfil combina **desarrollo fullstack, inteligencia artificial y Machine Lear
 
 ---
 
-## 🛠️ Stack tecnológico
+<img src="./assets/section-stack.svg" width="100%" alt="Stack tecnológico" />
 
 <div align="center">
 
@@ -85,10 +85,10 @@ Mi perfil combina **desarrollo fullstack, inteligencia artificial y Machine Lear
 
 ---
 
-## 🚀 Proyectos que asombran
+<img src="./assets/section-projects.svg" width="100%" alt="Proyectos seleccionados" />
 
 <details open>
-<summary><b>🗺️ Cuidado Vecinos — Inteligencia Territorial</b> · Fullstack · GIS · Real-time</summary>
+<summary><b>01 / Cuidado Vecinos — Inteligencia Territorial</b> · Fullstack · GIS · Real-time</summary>
 <br/>
 
 Plataforma georreferenciada con mapas interactivos, heatmaps y reportes anónimos. Stack: **Leaflet**, **OpenStreetMap**, **Supabase** (Auth + PostgreSQL + RLS). Pensada para apoyar decisiones municipales con datos espaciales en vivo.
@@ -101,7 +101,7 @@ Plataforma georreferenciada con mapas interactivos, heatmaps y reportes anónimo
 </details>
 
 <details>
-<summary><b>🧠 Tesis ML — Trayectorias Académicas</b> · Machine Learning · SHAP</summary>
+<summary><b>02 / Tesis ML — Trayectorias Académicas</b> · Machine Learning · SHAP</summary>
 <br/>
 
 Modelos de clasificación sobre datos longitudinales de rendimiento escolar para predecir macro-áreas formativas. Evaluación con **F1-score** e interpretabilidad con **SHAP** (asociaciones estadísticas, no determinismo ingenuo).
@@ -109,7 +109,7 @@ Modelos de clasificación sobre datos longitudinales de rendimiento escolar para
 </details>
 
 <details>
-<summary><b>🏗️ Predicción de Resistencia del Concreto</b> · Deep Learning</summary>
+<summary><b>03 / Predicción de Resistencia del Concreto</b> · Deep Learning</summary>
 <br/>
 
 Redes neuronales con **TensorFlow/Keras** para estimar resistencia a partir de variables fisicoquímicas. EDA, selección de features y tuning sistemático de hiperparámetros.
@@ -117,7 +117,7 @@ Redes neuronales con **TensorFlow/Keras** para estimar resistencia a partir de v
 </details>
 
 <details>
-<summary><b>📢 Automatización académica con IA (n8n)</b> · UNAB</summary>
+<summary><b>04 / Automatización académica con IA (n8n)</b> · UNAB</summary>
 <br/>
 
 Flujos que generan y publican contenido adaptado a LinkedIn/Instagram, eligen red social con IA y guardan historial en base de datos. Menos trabajo manual, más consistencia.
@@ -125,7 +125,7 @@ Flujos que generan y publican contenido adaptado a LinkedIn/Instagram, eligen re
 </details>
 
 <details>
-<summary><b>🎮 CS:GO Player Analytics</b> · Clustering · Outliers</summary>
+<summary><b>05 / CS:GO Player Analytics</b> · Clustering · Outliers</summary>
 <br/>
 
 Modelos supervisados + **K-Means** para segmentar estilos de juego y detectar outliers de rendimiento competitivo.
@@ -134,50 +134,50 @@ Modelos supervisados + **K-Means** para segmentar estilos de juego y detectar ou
 
 ---
 
-## 📌 Repositorios destacados
+<img src="./assets/section-repos.svg" width="100%" alt="Repositorios destacados" />
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏎️ <a href="https://github.com/Pillaulo/Portafolio">Garage OS</a></h3>
+      <h3>01 / <a href="https://github.com/Pillaulo/Portafolio">Garage OS</a></h3>
       <p>Portafolio 3D interactivo inspirado en la interfaz de un videojuego. Una experiencia visual para recorrer mi perfil, habilidades y proyectos.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/Pillaulo/Portafolio?style=flat-square&color=00E5C3&labelColor=0B1220" alt="Lenguaje principal" />
-        <img src="https://img.shields.io/github/last-commit/Pillaulo/Portafolio?style=flat-square&color=0EA5E9&labelColor=0B1220&label=actualizado" alt="Última actualización" />
+        <img src="https://img.shields.io/github/languages/top/Pillaulo/Portafolio?style=flat-square&color=EC4899&labelColor=0B1220" alt="Lenguaje principal" />
+        <img src="https://img.shields.io/github/last-commit/Pillaulo/Portafolio?style=flat-square&color=8B5CF6&labelColor=0B1220&label=actualizado" alt="Última actualización" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗺️ <a href="https://github.com/Pillaulo/Crimen_MVP">Cuidado Vecinos</a></h3>
+      <h3>02 / <a href="https://github.com/Pillaulo/Crimen_MVP">Cuidado Vecinos</a></h3>
       <p>Plataforma territorial para reportar y visualizar incidentes mediante mapas, heatmaps y datos georreferenciados.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/Pillaulo/Crimen_MVP?style=flat-square&color=00E5C3&labelColor=0B1220" alt="Lenguaje principal" />
-        <img src="https://img.shields.io/github/stars/Pillaulo/Crimen_MVP?style=flat-square&color=0EA5E9&labelColor=0B1220" alt="Stars" />
+        <img src="https://img.shields.io/github/languages/top/Pillaulo/Crimen_MVP?style=flat-square&color=EC4899&labelColor=0B1220" alt="Lenguaje principal" />
+        <img src="https://img.shields.io/github/stars/Pillaulo/Crimen_MVP?style=flat-square&color=8B5CF6&labelColor=0B1220" alt="Stars" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧰 <a href="https://github.com/Pillaulo/Proyectitos">Proyectitos</a></h3>
+      <h3>03 / <a href="https://github.com/Pillaulo/Proyectitos">Proyectitos</a></h3>
       <p>Colección de soluciones pequeñas, experimentos y herramientas creadas para resolver necesidades concretas.</p>
-      <img src="https://img.shields.io/github/languages/top/Pillaulo/Proyectitos?style=flat-square&color=00E5C3&labelColor=0B1220" alt="Lenguaje principal" />
+      <img src="https://img.shields.io/github/languages/top/Pillaulo/Proyectitos?style=flat-square&color=EC4899&labelColor=0B1220" alt="Lenguaje principal" />
     </td>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/Pillaulo/Coursera">Laboratorio de aprendizaje</a></h3>
+      <h3>04 / <a href="https://github.com/Pillaulo/Coursera">Laboratorio de aprendizaje</a></h3>
       <p>Notebooks, ejercicios y pruebas que documentan mi aprendizaje continuo en datos, programación y Machine Learning.</p>
-      <img src="https://img.shields.io/github/languages/top/Pillaulo/Coursera?style=flat-square&color=00E5C3&labelColor=0B1220" alt="Lenguaje principal" />
+      <img src="https://img.shields.io/github/languages/top/Pillaulo/Coursera?style=flat-square&color=EC4899&labelColor=0B1220" alt="Lenguaje principal" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎬 En vivo
+<img src="./assets/section-live.svg" width="100%" alt="Proyectos en vivo" />
 
 > Lo mejor de un proyecto es poder tocarlo. Aquí puedes probarlo tú mismo:
 
 <div align="center">
 
-### 🗺️ Cuidado Vecinos · Seguridad Ciudadana
+### 01 / Cuidado Vecinos · Seguridad Ciudadana
 <a href="https://cuidado-vecinos.onrender.com/">
   <img src="https://img.shields.io/badge/%E2%96%B6_Ver_demo_en_vivo-00E5C3?style=for-the-badge&labelColor=0B1220&color=00E5C3" alt="Live demo" />
 </a>
@@ -193,7 +193,7 @@ Modelos supervisados + **K-Means** para segmentar estilos de juego y detectar ou
 
 <br/><br/>
 
-### 🌐 Portafolio Web · `TypeScript`
+### 02 / Garage OS · `TypeScript`
 <a href="https://pillaulo.vercel.app/">
   <img src="https://img.shields.io/badge/%E2%96%B6_Ver_demo_en_vivo-0EA5E9?style=for-the-badge&labelColor=0B1220&color=0EA5E9" alt="Live demo" />
 </a>
@@ -211,23 +211,37 @@ Modelos supervisados + **K-Means** para segmentar estilos de juego y detectar ou
 
 ---
 
-## 🧮 Lenguajes en mis repositorios
+<img src="./assets/section-languages.svg" width="100%" alt="Lenguajes y tecnologías" />
 
 <div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pillaulo&theme=github_dark" alt="Repositorios por lenguaje" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pillaulo&theme=github_dark" alt="Commits por lenguaje" />
+  <p><b>PRODUCTO WEB</b></p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+
+  <p><b>DATOS E INTELIGENCIA ARTIFICIAL</b></p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+
+  <p><b>BACKEND Y FUNDAMENTOS</b></p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </div>
 
-<sub>Estas tarjetas reflejan únicamente repositorios públicos y no representan por sí solas todo mi stack.</sub>
+<p align="center"><sub>Una vista del ecosistema con el que construyo; no es un ranking ni depende de la frecuencia de commits.</sub></p>
 
 ---
 
-## 🎯 Qué quiero seguir construyendo
+<img src="./assets/section-next.svg" width="100%" alt="Qué quiero seguir construyendo" />
 
-- ⚙️ **Automatizaciones** que simplifiquen procesos y reduzcan trabajo manual.
-- 🧠 **Modelos de Machine Learning** aplicados a problemas reales y medibles.
-- 🧪 **Prototipos** que permitan explorar, validar y comunicar ideas rápidamente.
-- 🚀 **Productos fullstack escalables**, potenciados por IA cuando realmente aporte valor.
+- **01 — Automatizaciones** que simplifiquen procesos y reduzcan trabajo manual.
+- **02 — Modelos de Machine Learning** aplicados a problemas reales y medibles.
+- **03 — Prototipos** que permitan explorar, validar y comunicar ideas rápidamente.
+- **04 — Productos fullstack escalables**, potenciados por IA cuando realmente aporte valor.
 
 Estoy abierto a oportunidades en distintas áreas tecnológicas. Más que perseguir una etiqueta, busco desafíos donde pueda **investigar, aprender y convertir ideas en soluciones reales**.
 
@@ -237,13 +251,13 @@ Estoy abierto a oportunidades en distintas áreas tecnológicas. Más que perseg
 
 ### ¿Construimos algo que se note?
 
-<a href="mailto:paulocevite@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%92%A1_Hablemos-00E5C3?style=for-the-badge&labelColor=0B1220&color=00E5C3" alt="Contact" /></a>
+<a href="mailto:paulocevite@gmail.com"><img src="https://img.shields.io/badge/Hablemos-00E5C3?style=for-the-badge&labelColor=0B1220&color=00E5C3" alt="Contact" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/paulovicenciotello"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Las+mejores+ideas+empiezan+como+un+prototipo+%E2%9C%A8;Construyamos+algo+que+valga+la+pena+probar" alt="Las mejores ideas empiezan como un prototipo" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=17&duration=4000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Las+mejores+ideas+empiezan+como+un+prototipo;Construyamos+algo+que+valga+la+pena+probar" alt="Las mejores ideas empiezan como un prototipo" />
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/822137ff09f6a94833c1e3bddbc3cceae2c9cd9a/images/linebreak.gif" width="100%" alt="" />
 
