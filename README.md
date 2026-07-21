@@ -8,7 +8,7 @@
 
   <!-- Banner animado (typing) -->
   <a href="https://github.com/Pillaulo">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3200&pause=900&color=00E5C3&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Hola%2C+soy+Paulo+Vicencio;Ingeniero+Civil+Inform%C3%A1tico;IA+%C2%B7+Fullstack+%C2%B7+Machine+Learning;De+una+idea+a+un+producto+real" alt="Paulo Vicencio — Ingeniería, IA y desarrollo de productos" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3200&pause=900&color=00E5C3&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=200&lines=Hola%2C+soy+Paulo+Vicencio;Ingeniero+Civil+Inform%C3%A1tico;IA+%C2%B7+Fullstack+%C2%B7+Machine+Learning;De+una+idea+a+un+producto+real" alt="Paulo Vicencio — Ingeniería, IA y desarrollo de productos" />
   </a>
 
   <br/>
