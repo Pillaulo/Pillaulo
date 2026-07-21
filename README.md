@@ -28,7 +28,7 @@
 
 ---
 
-<img src="./assets/section-about.svg" width="100%" alt="Sobre mí" />
+<img src="./assets/section-about.png" width="100%" alt="Sobre mí" />
 
 > **Me gusta tomar una idea, investigarla, construir un prototipo y llevarla hasta algo que otra persona realmente pueda probar.**
 
@@ -44,7 +44,7 @@ Mi perfil combina **desarrollo fullstack, inteligencia artificial y Machine Lear
 
 ---
 
-<img src="./assets/section-process.svg" width="100%" alt="Cómo convierto ideas en productos" />
+<img src="./assets/section-process.png" width="100%" alt="Cómo convierto ideas en productos" />
 
 <div align="center">
 
@@ -56,7 +56,7 @@ Mi perfil combina **desarrollo fullstack, inteligencia artificial y Machine Lear
 
 ---
 
-<img src="./assets/section-stack.svg" width="100%" alt="Stack tecnológico" />
+<img src="./assets/section-stack.png" width="100%" alt="Stack tecnológico" />
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Mi perfil combina **desarrollo fullstack, inteligencia artificial y Machine Lear
 
 ---
 
-<img src="./assets/section-projects.svg" width="100%" alt="Proyectos seleccionados" />
+<img src="./assets/section-projects.png" width="100%" alt="Proyectos seleccionados" />
 
 <details open>
 <summary><b>01 / Cuidado Vecinos — Inteligencia Territorial</b> · Fullstack · GIS · Real-time</summary>
@@ -134,7 +134,7 @@ Modelos supervisados + **K-Means** para segmentar estilos de juego y detectar ou
 
 ---
 
-<img src="./assets/section-repos.svg" width="100%" alt="Repositorios destacados" />
+<img src="./assets/section-repos.png" width="100%" alt="Repositorios destacados" />
 
 <table>
   <tr>
@@ -171,7 +171,7 @@ Modelos supervisados + **K-Means** para segmentar estilos de juego y detectar ou
 
 ---
 
-<img src="./assets/section-live.svg" width="100%" alt="Proyectos en vivo" />
+<img src="./assets/section-live.png" width="100%" alt="Proyectos en vivo" />
 
 > Lo mejor de un proyecto es poder tocarlo. Aquí puedes probarlo tú mismo:
 
@@ -211,7 +211,7 @@ Modelos supervisados + **K-Means** para segmentar estilos de juego y detectar ou
 
 ---
 
-<img src="./assets/section-languages.svg" width="100%" alt="Lenguajes y tecnologías" />
+<img src="./assets/section-languages.png" width="100%" alt="Lenguajes y tecnologías" />
 
 <div align="center">
   <p><b>PRODUCTO WEB</b></p>
@@ -236,7 +236,7 @@ Modelos supervisados + **K-Means** para segmentar estilos de juego y detectar ou
 
 ---
 
-<img src="./assets/section-next.svg" width="100%" alt="Qué quiero seguir construyendo" />
+<img src="./assets/section-next.png" width="100%" alt="Qué quiero seguir construyendo" />
 
 - **01 — Automatizaciones** que simplifiquen procesos y reduzcan trabajo manual.
 - **02 — Modelos de Machine Learning** aplicados a problemas reales y medibles.
