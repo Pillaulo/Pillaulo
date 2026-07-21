@@ -8,12 +8,8 @@
 
   <!-- Banner animado (typing) -->
   <a href="https://github.com/Pillaulo">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3200&pause=900&color=00E5C3&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Hola%2C+soy+Paulo+Vicencio;Ingeniero+Civil+Inform%C3%A1tico;IA+%C2%B7+Fullstack+%C2%B7+Machine+Learning;De+una+idea+a+un+producto+real" alt="Paulo Vicencio — Ingeniería, IA y desarrollo de productos" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=2800&pause=1100&color=00E5C3&center=true&vCenter=true&repeat=true&width=760&height=65&lines=Hola%2C+soy+Paulo+Vicencio;Ingeniero+Civil+Inform%C3%A1tico;IA+%C2%B7+Fullstack+%C2%B7+Machine+Learning;Ideas+que+se+convierten+en+productos" alt="Paulo Vicencio — Ingeniería, IA y desarrollo de productos" />
   </a>
-
-  <br/>
-
-  <img src="https://raw.githubusercontent.com/trinib/trinib/822137ff09f6a94833c1e3bddbc3cceae2c9cd9a/images/linebreak.gif" width="100%" alt="" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Pillaulo&style=for-the-badge&color=00e5c3&label=PROFILE+VIEWS" alt="Profile views" />
@@ -257,7 +253,7 @@ Estoy abierto a oportunidades en distintas áreas tecnológicas. Más que perseg
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=17&duration=4000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Las+mejores+ideas+empiezan+como+un+prototipo;Construyamos+algo+que+valga+la+pena+probar" alt="Las mejores ideas empiezan como un prototipo" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=17&duration=4000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Las+mejores+ideas+empiezan+como+un+prototipo;Construyamos+algo+que+valga+la+pena+probar" alt="Las mejores ideas empiezan como un prototipo" />
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/822137ff09f6a94833c1e3bddbc3cceae2c9cd9a/images/linebreak.gif" width="100%" alt="" />
 
