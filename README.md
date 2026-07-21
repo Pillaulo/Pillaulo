@@ -8,7 +8,7 @@
 
   <!-- Banner animado (typing) -->
   <a href="https://github.com/Pillaulo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=900&color=00E5C3&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=Hola%2C+soy+Paulo+Vicencio+%F0%9F%91%8B;Ingeniero+Civil+Inform%C3%A1tico;Fullstack+%C2%B7+IA+%C2%B7+Machine+Learning;Construyo+sistemas+que+impresionan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=900&color=00E5C3&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Hola%2C+soy+Paulo+Vicencio+%F0%9F%91%8B;Ingeniero+Civil+Inform%C3%A1tico;IA+%C2%B7+Fullstack+%C2%B7+Machine+Learning;De+una+idea+a+un+producto+real" alt="Paulo Vicencio — Ingeniería, IA y desarrollo de productos" />
   </a>
 
   <br/>
@@ -30,28 +30,27 @@
 
 ## 🛰️ Sobre mí
 
-```js
-const paulo = {
-  role: "Ingeniero Civil Informático",
-  focus: ["Fullstack", "IA", "Machine Learning", "Data Viz"],
-  vibe: "Código limpio + impacto visual + resultados reales",
-  location: "Valparaíso, Chile 🇨🇱",
-  currently: "Construyendo plataformas con IA, mapas y APIs escalables",
-  openTo: ["Colaboraciones", "Proyectos desafiantes", "Oportunidades fullstack / ML"],
-};
-```
+> **Me gusta tomar una idea, investigarla, construir un prototipo y llevarla hasta algo que otra persona realmente pueda probar.**
 
-> Ingeniero titulado en la **Universidad Andrés Bello**. Diseño e implemento sistemas reales: APIs REST con JWT, bases de datos, visualización espacial y modelos de ML con interpretabilidad. Me gusta que el producto se vea tan bien como funciona.
+Soy **Ingeniero Civil Informático** de Valparaíso, Chile 🇨🇱. Me mueve la curiosidad: disfruto explorar tecnologías, comparar caminos posibles y aprender mientras construyo. Trabajo de forma iterativa, cuidando tanto la ingeniería como la experiencia visual.
+
+Mi perfil combina **desarrollo fullstack, inteligencia artificial y Machine Learning**. No busco encasillarme en una sola herramienta; me interesa entender el problema, elegir una solución efectiva y convertirla en un producto útil, escalable y memorable.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Curioso_por_naturaleza-0B1220?style=for-the-badge&logo=protondb&logoColor=00E5C3" alt="Curioso por naturaleza" />
+  <img src="https://img.shields.io/badge/Aprendo_construyendo-0B1220?style=for-the-badge&logo=codecrafters&logoColor=0EA5E9" alt="Aprendo construyendo" />
+  <img src="https://img.shields.io/badge/Valpara%C3%ADso%2C_Chile-0B1220?style=for-the-badge&logo=googlemaps&logoColor=00E5C3" alt="Valparaíso, Chile" />
+</p>
 
 ---
 
-## ⚡ Lo que me mueve
+## ⚡ Cómo convierto ideas en productos
 
 <div align="center">
 
-| 🧠 IA & ML | 🌐 Fullstack | 🗺️ Datos & GIS | ⚙️ Automatización |
+| 01 · Investigar | 02 · Prototipar | 03 · Validar | 04 · Escalar |
 |:---:|:---:|:---:|:---:|
-| Modelos, SHAP, TensorFlow | Angular · React · FastAPI | Leaflet · Heatmaps · Supabase | n8n · Docker · Pipelines |
+| Entender el problema y explorar alternativas | Hacer tangible la idea rápidamente | Iterar con evidencia y resultados reales | Convertir lo aprendido en una solución sólida |
 
 </div>
 
@@ -137,22 +136,38 @@ Modelos supervisados + **K-Means** para segmentar estilos de juego y detectar ou
 
 ## 📌 Repositorios destacados
 
-<div align="center">
-
-<a href="https://github.com/Pillaulo/Portafolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pillaulo&repo=Portafolio&theme=transparent&hide_border=true&title_color=00E5C3&icon_color=0EA5E9&text_color=E6EDF3&bg_color=0B1220" alt="Portafolio" />
-</a>
-<a href="https://github.com/Pillaulo/Crimen_MVP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pillaulo&repo=Crimen_MVP&theme=transparent&hide_border=true&title_color=00E5C3&icon_color=0EA5E9&text_color=E6EDF3&bg_color=0B1220" alt="Crimen_MVP" />
-</a>
-<a href="https://github.com/Pillaulo/Proyectitos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pillaulo&repo=Proyectitos&theme=transparent&hide_border=true&title_color=00E5C3&icon_color=0EA5E9&text_color=E6EDF3&bg_color=0B1220" alt="Proyectitos" />
-</a>
-<a href="https://github.com/Pillaulo/Coursera">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pillaulo&repo=Coursera&theme=transparent&hide_border=true&title_color=00E5C3&icon_color=0EA5E9&text_color=E6EDF3&bg_color=0B1220" alt="Coursera" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏎️ <a href="https://github.com/Pillaulo/Portafolio">Garage OS</a></h3>
+      <p>Portafolio 3D interactivo inspirado en la interfaz de un videojuego. Una experiencia visual para recorrer mi perfil, habilidades y proyectos.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/Pillaulo/Portafolio?style=flat-square&color=00E5C3&labelColor=0B1220" alt="Lenguaje principal" />
+        <img src="https://img.shields.io/github/last-commit/Pillaulo/Portafolio?style=flat-square&color=0EA5E9&labelColor=0B1220&label=actualizado" alt="Última actualización" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://github.com/Pillaulo/Crimen_MVP">Cuidado Vecinos</a></h3>
+      <p>Plataforma territorial para reportar y visualizar incidentes mediante mapas, heatmaps y datos georreferenciados.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/Pillaulo/Crimen_MVP?style=flat-square&color=00E5C3&labelColor=0B1220" alt="Lenguaje principal" />
+        <img src="https://img.shields.io/github/stars/Pillaulo/Crimen_MVP?style=flat-square&color=0EA5E9&labelColor=0B1220" alt="Stars" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧰 <a href="https://github.com/Pillaulo/Proyectitos">Proyectitos</a></h3>
+      <p>Colección de soluciones pequeñas, experimentos y herramientas creadas para resolver necesidades concretas.</p>
+      <img src="https://img.shields.io/github/languages/top/Pillaulo/Proyectitos?style=flat-square&color=00E5C3&labelColor=0B1220" alt="Lenguaje principal" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/Pillaulo/Coursera">Laboratorio de aprendizaje</a></h3>
+      <p>Notebooks, ejercicios y pruebas que documentan mi aprendizaje continuo en datos, programación y Machine Learning.</p>
+      <img src="https://img.shields.io/github/languages/top/Pillaulo/Coursera?style=flat-square&color=00E5C3&labelColor=0B1220" alt="Lenguaje principal" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -196,22 +211,25 @@ Modelos supervisados + **K-Means** para segmentar estilos de juego y detectar ou
 
 ---
 
-## 🧮 Lenguajes que más uso
+## 🧮 Lenguajes en mis repositorios
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pillaulo&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00E5C3&text_color=E6EDF3&bg_color=0B1220" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pillaulo&theme=github_dark" alt="Repositorios por lenguaje" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pillaulo&theme=github_dark" alt="Commits por lenguaje" />
 </div>
+
+<sub>Estas tarjetas reflejan únicamente repositorios públicos y no representan por sí solas todo mi stack.</sub>
 
 ---
 
-## 🎯 Enfoque actual
+## 🎯 Qué quiero seguir construyendo
 
-```diff
-+ Automatizaciones que simplifican procesos y reducen trabajo manual
-+ Modelos de Machine Learning aplicados a problemas reales
-+ Prototipado rápido para validar ideas y convertirlas en productos
-+ Soluciones escalables impulsadas por IA y orientadas a resultados
-```
+- ⚙️ **Automatizaciones** que simplifiquen procesos y reduzcan trabajo manual.
+- 🧠 **Modelos de Machine Learning** aplicados a problemas reales y medibles.
+- 🧪 **Prototipos** que permitan explorar, validar y comunicar ideas rápidamente.
+- 🚀 **Productos fullstack escalables**, potenciados por IA cuando realmente aporte valor.
+
+Estoy abierto a oportunidades en distintas áreas tecnológicas. Más que perseguir una etiqueta, busco desafíos donde pueda **investigar, aprender y convertir ideas en soluciones reales**.
 
 ---
 
@@ -225,7 +243,7 @@ Modelos supervisados + **K-Means** para segmentar estilos de juego y detectar ou
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=500&lines=Thanks+for+dropping+by+%E2%9C%A8;Let's+build+something+unforgettable" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Las+mejores+ideas+empiezan+como+un+prototipo+%E2%9C%A8;Construyamos+algo+que+valga+la+pena+probar" alt="Las mejores ideas empiezan como un prototipo" />
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/822137ff09f6a94833c1e3bddbc3cceae2c9cd9a/images/linebreak.gif" width="100%" alt="" />
 
