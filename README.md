@@ -6,10 +6,12 @@
 
 <div align="center">
 
-  <!-- Presentación principal -->
+  <!-- Banner cyberpunk pixel art + presentación -->
   <a href="https://github.com/Pillaulo">
     <img src="./assets/profile-hero.png" width="100%" alt="Paulo Vicencio — Ingeniero Civil Informático — IA, Fullstack y Machine Learning" />
   </a>
+
+  <br/>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Pillaulo&style=for-the-badge&color=00e5c3&label=PROFILE+VIEWS" alt="Profile views" />
@@ -17,8 +19,6 @@
     <a href="https://linkedin.com/in/paulovicenciotello"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:paulocevite@gmail.com"><img src="https://img.shields.io/badge/Email-00E5C3?style=for-the-badge&logo=gmail&logoColor=0B1220" alt="Email" /></a>
   </p>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6eda4100.gif" width="100%" alt="" />
 
 </div>
 
